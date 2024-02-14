@@ -1,0 +1,7 @@
+version: '3.6'
+
+services:
+  main:
+    image: free
+    command: >
+      /bin/sh -c 'typer cli.py 2'
