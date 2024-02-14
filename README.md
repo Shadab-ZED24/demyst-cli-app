@@ -9,4 +9,4 @@ typer cli.py run 2 --> here 2 is the ID to file the title and the completion sta
 
 You need typer and requests module to run this tool
 
-Note: ODD numbers will not be acceptable for this program
+Note: ODD numbers will not be acceptable for this program, only first 20 Even Numbers will be accepted.
